@@ -2,7 +2,6 @@ package es.unican.pi.supermercado.business;
 
 import es.unican.pi.supermercado.domain.Albaran;
 
-@Local
 public interface IGestionPedidos {
 
 	Albaran procesarPedido();
